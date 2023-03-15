@@ -1,2 +1,8 @@
-/.idea/
 .DS_Store
+.idea
+/steps/3-create-ydb/sls-deploy.sa
+node_modules/
+dist/
+.serverless/
+/yc-serverless-serverless-game
+/steps/10-create-api-gw/apigw.yml
